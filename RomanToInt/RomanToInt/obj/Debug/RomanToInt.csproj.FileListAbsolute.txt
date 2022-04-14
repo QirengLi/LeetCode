@@ -1,0 +1,8 @@
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\bin\Debug\RomanToInt.exe.config
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\bin\Debug\RomanToInt.exe
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\bin\Debug\RomanToInt.pdb
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\obj\Debug\RomanToInt.csproj.AssemblyReference.cache
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\obj\Debug\RomanToInt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\obj\Debug\RomanToInt.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\obj\Debug\RomanToInt.exe
+C:\Users\Calvin Li\Desktop\Leetcode\RomanToInt\RomanToInt\obj\Debug\RomanToInt.pdb
